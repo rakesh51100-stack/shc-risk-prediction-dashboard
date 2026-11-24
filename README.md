@@ -137,3 +137,9 @@ This command will open the dashboard in your default web browser. You can then i
 ## License
 
 MIT LICENSE
+
+
+## Project credits
+
+- Project initiation by `rishi55100-stack`.
+- Dashboard implementation by Prasanna Sharma.
